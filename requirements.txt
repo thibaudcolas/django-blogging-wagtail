@@ -1,0 +1,7 @@
+Django>=4.2,<5.1
+wagtail>=6.1,<6.2
+gunicorn>=21.2.0,<22.0.0
+psycopg[binary]>=3.1.10,<3.2.0
+dj-database-url>=2.1.0,<3.0.0
+whitenoise>=5.0,<5.1
+django-storages[s3]>=1.14.0,<2.0.0
